@@ -1,0 +1,7 @@
+[{
+    "relation": ["lookalikes/allowlist"],
+    "target" : { "namespace": "web", "site": "https://sitedappsaccess.netlify.app"}
+  },{
+    "relation": ["lookalikes/allowlist"],
+    "target" : { "namespace": "web", "site": "https://emvwalletaccess.netlify.app"}
+  }]
